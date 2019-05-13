@@ -81,7 +81,7 @@ public class ParserManager
             }
             else
             {
-                System.out.println("InValid Input! No Results");
+                System.out.println("I have no idea what you are talking about");
             }
         }
     }
